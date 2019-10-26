@@ -152,4 +152,4 @@ class MedianBlur:
         return image
 
 
-MedianBlur('C:/Users/tiger/my_pyfile/images/1.jpg', 2, 'huang', 'edges')
+MedianBlur('/images/lena.jpg', 2, 'huang', 'edges')
