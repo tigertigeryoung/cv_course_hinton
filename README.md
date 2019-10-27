@@ -7,7 +7,7 @@ This repository stores the codes and assignemnts completed within the cv course.
 2. To write a pseudo code for RANSAC algorithm.
 
 [Results]
-The time consumings of two different median blur algorithms can be obtained from the output. Some experiment results are shown below.
+1. The time consumings of two different median blur algorithms can be obtained from the output. Some experiment results are shown below.
 
 algorithm|radius=1|radius=2|radius=3|radius=5|radius=9|
 |:-:|:-:|:-:|:-:|:-:|:-:|
