@@ -43,7 +43,8 @@ https://blog.csdn.net/weixin_41679015/article/details/81093244
 
 [Example]
 
-print('Hey!'\\\'Man!')
+print('Hey!'\\\
+'Man!')
 
 Hey!Man!
 
