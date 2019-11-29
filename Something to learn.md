@@ -21,3 +21,37 @@ https://blog.csdn.net/weixin_41679015/article/details/81093244
 # 安装pytorch(CPU)遇到的坑
 
 1. 安装版本号 python>3.6，例如python==3.6.4，python=3.6.5
+
+
+# Python 中的转义字符
+所谓“转义字符”，就是通过在指定字符前加‘\’,使这个字符组合具有有别于普通字符的特殊含义，这个字符组合就叫做转义字符。
+
+[常见的转义字符]
+
+|转义字符|说明|
+|:-:|:-:|
+|\\'|单引号\'|
+|\\"|双引号\"|
+|\n|换行符|
+|\r|回车符|
+|\t|水平制表符，用于横向跳向下一制表位|
+|\b|退格符，会向前删除一位输入|
+|\0|空|
+|'\\'|行尾续行符|
+|'\\\\'|反斜线|
+
+
+[Example]
+
+print('Hey!'\
+   'Man!')
+
+Hey!Man!
+
+print('qwer\0qwer'
+
+qwerqwer
+
+[Reference]
+
+http://c.biancheng.net/view/2176.html
