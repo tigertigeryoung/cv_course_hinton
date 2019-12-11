@@ -1,0 +1,2 @@
+image stitching
+object recognition
