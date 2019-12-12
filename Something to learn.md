@@ -78,5 +78,6 @@ round计数保留规则：当待近似数据可以用二进制精确转化时，
 
 [Reference]
 
-1. https://baike.baidu.com/item/%E5%A5%87%E8%BF%9B%E5%81%B6%E8%88%8D
-2. https://segmentfault.com/a/1190000018929994
+1. https://stackoverflow.com/questions/33019698/how-to-properly-round-up-half-float-numbers-in-python
+2. https://baike.baidu.com/item/%E5%A5%87%E8%BF%9B%E5%81%B6%E8%88%8D
+3. https://segmentfault.com/a/1190000018929994
